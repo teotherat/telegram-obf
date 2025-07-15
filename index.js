@@ -1,3 +1,7 @@
+// @teoxor - credit
+// jangan hapus credit ya kalau kamu menghargai :D
+
+
 const { Telegraf } = require('telegraf');
 const fs = require('fs');
 const path = require('path');
