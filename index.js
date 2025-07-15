@@ -10,7 +10,7 @@ const botToken = 'your_token'; // bot token
 const bot = new Telegraf(botToken);
 
 
-// @start
+//@start
 
 bot.on('document', async (ctx) => {
     const file = ctx.message.document;
